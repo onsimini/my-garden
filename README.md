@@ -1,4 +1,9 @@
-# Bonsai Trees
+# My Garden
+
+## My setup
+
+![1](/imgs/setup/cat_box_14pot_setup.jpg)
+
 ## All about my bonsai trees.
 
 - 2021-02-06 - 24h in waters
