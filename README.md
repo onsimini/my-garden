@@ -2,7 +2,7 @@
 
 ## My setup
 
-![1](/imgs/setup/cat_box_14pot_setup.jpg)
+![1](/imgs/hydro-setup/cat_box_14pot_setup.jpg)
 
 ## All about my bonsai trees.
 
